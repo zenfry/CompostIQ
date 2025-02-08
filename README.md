@@ -1,6 +1,7 @@
 # Smart Composting Bin - Compost Monitor
 
 This project monitors the temperature and moisture level of your compost bin using an Arduino with sensors. It utilizes a temperature sensor (LM35) and a moisture sensor to keep track of the compost's conditions. The readings are displayed on an RGB LCD screen and can also be monitored through the Serial Monitor.
+https://smartbin4.godaddysites.com/
 
 ## Features:
 - Displays compost temperature and moisture level on an LCD.
